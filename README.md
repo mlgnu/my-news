@@ -3,7 +3,7 @@
 Modern news application developed in React and Typescript and Tailwind 
 
 ### features
-- Infinate scrolling using React Query and Intersection Observer
+- Infinate scrolling with animations using React Query and Intersection Observer
 - Query caching using react query
 - State management using Jotai
 - Advanced search for news
